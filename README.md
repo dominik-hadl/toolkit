@@ -71,7 +71,8 @@ All the communication apps.
 - [oh-my-zsh]() - command line made even easier/faster
 - [scm-breeze]() - source control made fast and easy
 - [bfg-repo-cleaner]() - for the ocassional api keys or passwords in git
-- [GitUp]() - a simple and fast GUI for Git 
+- [GitUp]() - a simple and fast GUI for Git
+- [Broot](https://dystroy.org/broot/) - better directory tree navigation in the command line
 
 ### Mobile
 
